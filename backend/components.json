@@ -1,0 +1,113 @@
+{
+  "case": [
+    {
+      "componentid": 1,
+      "manufacturer": "Cooler Master",
+      "model": "MasterBox Q500L",
+      "price": 60
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "AeroCool",
+      "model": "Qs-240",
+      "price": 30,
+      "description": "Nice looking case. Easy to build in. Drive cage makes cable management a little trickier. Sides are thin and easily dented. Nice small mid tower."
+    }
+  ],
+  "cooling": [
+    {
+      "componentid": 1,
+      "manufacturer": "DeepCool",
+      "model": "Castle 240",
+      "price": 120
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "ASUS",
+      "model": "Strix LC 360",
+      "price": 100,
+      "description": "ROG-designed radiator fans for optimised airflow and static pressure. Individually addressable RGB and NCVM coating pump cover accentuates the sleek, modern aesthetics. Styled to complement ROG motherboards, at the centre stage of your build. Reinforced, sleeved tubing for increased durability"
+    }
+  ],
+  "cpu": [
+    {
+      "componentid": 1,
+      "manufacturer": "Intel",
+      "model": "Core i5-10500",
+      "price": 210
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "AMD",
+      "model": "Ryzen 5 3600",
+      "price": 200,
+      "description": "The world's most advanced processor in the desktop PC gaming segment. Can deliver ultra-fast 100+ FPS performance in the world's most popular games. 6 cores and 12 processing threads bundled with the quiet AMD wraith stealth cooler max temps 95°C. 4 2 GHz max boost unlocked for overclocking 35 MB of game cache DDR4 3200 support. For the advanced socket AM4 platform can support PCIe 4 0 on x570 motherboards"
+    },
+        {
+      "componentid": 3,
+      "manufacturer": "Intel",
+      "model": "Core i7-3700K",
+      "price": 150
+    }
+  ],
+  "gpu": [
+    {
+      "componentid": 1,
+      "manufacturer": "Gigabyte",
+      "model": "GeForce RTX 3060 Ti Eagle 8G",
+      "price": 600
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "MSI",
+      "model": "Radeon RX 580 Gaming 8GB",
+      "price": 240,
+      "description": "Experience the next level of immersion with the world of VR gaming and entertainment with MSI RX 580 ARMOR 8G OC powered by the revolutionary Polaris architecture. Puts an end to choppy gameplay and broken frames with fluid, artifact-free performance at virtually any framerate. Enhanced contrast and colors deliver a strikingly sharp, colorful, and vivid visual experience."
+    }
+  ],
+  "motherboard": [
+    {
+      "componentid": 1,
+      "manufacturer": "ASUS",
+      "model": "B550-Plus",
+      "price": 140
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "MSI",
+      "model": "B460M-A Pro",
+      "price": 80,
+      "description": "MSI PRO series motherboards feature plenty possibility for prosumers’ need. Stable LAN, faster storage and USB transfer speed and other expandable connectors are ready to enlarge your flexibility."
+    }
+  ],
+  "power": [
+    {
+      "componentid": 1,
+      "manufacturer": "Chieftec",
+      "model": "TPS-500S",
+      "price": 50
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "Zalman",
+      "model": "ZM750-GVII",
+      "price": 50,
+      "description": "ZM Series Modular power supply units are an excellent choice for basic system builds and desktop PC computer upgrades, offering high reliability, low noise, and the flexibility of modular cabling."
+    }
+  ],
+  "ssd": [
+    {
+      "componentid": 1,
+      "manufacturer": "Kingston",
+      "model": "A2000 500GB",
+      "price": 70
+    },
+    {
+      "componentid": 2,
+      "manufacturer": "Samsung",
+      "model": "970 Evo 500GB MZ-V7E500",
+      "price": 80,
+      "description": "Accelerate into next-gen computing. The Samsung 970 EVO delivers breakthrough speeds, superb reliability, and a broad range of capacity options up to 2TB*. The latest V-NAND, new Phoenix controller, and Intelligent TurboWrite technology enhance high-end gaming and 4K & 3D graphic editing."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "builds": [
+    {
+      "buildid": 1,
+      "date": "2020-12-05",
+      "case": {
+        "componentid": 2
+      },
+      "cpu": {
+        "componentid": 2
+      },
+      "gpu": {
+        "componentid": 2
+      },
+      "motherboard": {
+        "componentid": 2
+      },
+      "ssd": {
+        "componentid": 2
+      },
+      "power": {
+        "componentid": 2
+      },
+      "cooling": {
+        "componentid": 2
+      },
+      "buildName": "Medium level PC",
+      "sameStorePrice": 1000,
+      "img": "build_1.jpg",
+      "description": "Excellent gaming performance at a lower price"
+    },
+    {
+      "buildid": 2,
+      "date": "2020-11-05",
+      "case": {
+        "componentid": 1
+      },
+      "cpu": {
+        "componentid": 1
+      },
+      "gpu": {
+        "componentid": 1
+      },
+      "motherboard": {
+        "componentid": 1
+      },
+      "ssd": {
+        "componentid": 1
+      },
+      "power": {
+        "componentid": 1
+      },
+      "cooling": {
+        "componentid": 1
+      },
+      "buildName": "Elementary level PC",
+      "sameStorePrice": 1500,
+      "img": "build_2.jpg",
+      "description": "Excellent gaming performance at a lower price"
+    }
+  ]
+}
